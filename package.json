@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "prototype": "tsx src/creational/_1_prototype/index.ts",
-    "singleton": "tsx src/creational/_2_singleton/index.ts"
+    "singleton": "tsx src/creational/_2_singleton/index.ts",
+    "factory": "tsx src/creational/_3_factory/index.ts"
   },
   "devDependencies": {
     "@types/node": "^25.1.0",
