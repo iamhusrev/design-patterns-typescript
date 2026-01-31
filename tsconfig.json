@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext", // nodenext yerine ESNext
+    "moduleResolution": "bundler", // Modern araçlarla (Vite, ts-node vb.) en uyumlu olanı
+    "allowImportingTsExtensions": true, // Geliştirme aşamasında kolaylık sağlar
+    "rewriteRelativeImportExtensions": true, // TS 5.x ile gelen güzellik
+    "noEmit": true, // Sadece tip kontrolü yap, çıktı dosyası oluşturma (ts-node kullanıyorsan)
+
+    // Diğer ayarların kalsın, onlar kaliteli
+    "strict": true,
+    "skipLibCheck": true,
+    "sourceMap": true
+  }
+}

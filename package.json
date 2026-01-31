@@ -1,0 +1,14 @@
+{
+  "name": "ts-design-patterns",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "prototype": "tsx src/creational/_1_prototype/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.1.0",
+    "prettier-plugin-packagejson": "^3.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
