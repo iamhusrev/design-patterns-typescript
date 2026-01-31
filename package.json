@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "prototype": "tsx src/creational/_1_prototype/index.ts"
+    "prototype": "tsx src/creational/_1_prototype/index.ts",
+    "singleton": "tsx src/creational/_2_singleton/index.ts"
   },
   "devDependencies": {
     "@types/node": "^25.1.0",
