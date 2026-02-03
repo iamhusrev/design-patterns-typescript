@@ -6,7 +6,8 @@
     "prototype": "tsx src/_1_creational/_1_prototype/index.ts",
     "singleton": "tsx src/_1_creational/_2_singleton/index.ts",
     "factory": "tsx src/_1_creational/_3_factory_method/index.ts",
-    "abstract-factory": "tsx src/_1_creational/_4_abstract_factory/index.ts"
+    "abstract-factory": "tsx src/_1_creational/_4_abstract_factory/index.ts",
+    "builder": "tsx src/_1_creational/_5_builder/index.ts"
   },
   "devDependencies": {
     "@types/node": "^25.1.0",
