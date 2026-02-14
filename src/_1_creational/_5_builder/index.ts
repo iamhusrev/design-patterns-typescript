@@ -1,4 +1,4 @@
-import { ShippingOrderBuilder } from "./ShippingOrderBuilder.js";
+import { ShippingOrderBuilder } from "./shipping-order-builder.js";
 
 const expressOrder = new ShippingOrderBuilder()
     .setRoute("Ankara", "Istanbul")

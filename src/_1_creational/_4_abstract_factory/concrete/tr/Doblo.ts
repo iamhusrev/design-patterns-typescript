@@ -1,4 +1,4 @@
-import { Vehicle } from "../../interfaces/Vehicle";
+import { Vehicle } from "../../interfaces/vehicle";
 
 class Doblo implements Vehicle {
     getCapacity(): void {

@@ -1,5 +1,5 @@
-import { Vehicle } from "./Vehicle";
-import { Document } from "./Document";
+import { Vehicle } from "./vehicle";
+import { Document } from "./document";
 
 export interface LogisticsFactory {
     createVehicle(): Vehicle;

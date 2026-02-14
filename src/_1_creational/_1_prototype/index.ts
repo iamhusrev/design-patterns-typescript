@@ -1,5 +1,5 @@
-import { Circle } from "./Circle";
-import { ContextMenu } from "./ContextMenu";
+import { Circle } from "./circle.component.";
+import { ContextMenu } from "./context-menu";
 
 // 1. Bir tane "prototip" oluşturuyoruz (Mavi büyük bir daire)
 const prototypeBlueCircle = new Circle(100, "Blue");

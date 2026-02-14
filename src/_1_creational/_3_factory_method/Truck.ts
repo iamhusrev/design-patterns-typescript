@@ -1,4 +1,4 @@
-import { Transport } from "./Trasnport";
+import { Transport } from "./trasnport";
 
 export class Truck implements Transport {
     deliver(): void {

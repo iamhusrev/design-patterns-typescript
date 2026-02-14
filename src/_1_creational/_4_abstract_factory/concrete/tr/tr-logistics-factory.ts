@@ -1,6 +1,6 @@
-import { LogisticsFactory } from "../../interfaces/LogisticFactory";
-import { Doblo } from "./Doblo";
-import { Irsaliye } from "./Irsaliye";
+import { LogisticsFactory } from "../../interfaces/logisticFactory";
+import { Doblo } from "./doblo";
+import { Irsaliye } from "./irsaliye";
 
 
 export class TRLogisticsFactory implements LogisticsFactory {

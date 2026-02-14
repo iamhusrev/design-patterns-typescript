@@ -1,4 +1,4 @@
-import { Document } from "../../interfaces/Document";
+import { Document } from "../../interfaces/document";
 
 export class Irsaliye implements Document {
     getType(): string {

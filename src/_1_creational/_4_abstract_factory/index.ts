@@ -1,6 +1,6 @@
-import { EULogisticsFactory } from "./concrete/eu/EULogisticsFactory";
-import { TRLogisticsFactory } from "./concrete/tr/TRLogisticsFactory";
-import { LogisticsFactory } from "./interfaces/LogisticFactory";
+import { EULogisticsFactory } from "./concrete/eu/eu-logistics-factory";
+import { TRLogisticsFactory } from "./concrete/tr/tr-logistics-factory";
+import { LogisticsFactory } from "./interfaces/logisticFactory";
 
 
 function startOperation(factory: LogisticsFactory) {

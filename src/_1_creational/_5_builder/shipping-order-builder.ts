@@ -1,4 +1,4 @@
-import { ShippingOrder } from "./ShippingOrder.js";
+import { ShippingOrder } from "./shipping-order.js";
 
 export class ShippingOrderBuilder {
     private order: ShippingOrder;

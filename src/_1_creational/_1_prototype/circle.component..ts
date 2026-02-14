@@ -1,4 +1,4 @@
-import { Component } from "./Component";
+import { Component } from "./component.interface";
 
 export class Circle implements Component {
     public radius: number;

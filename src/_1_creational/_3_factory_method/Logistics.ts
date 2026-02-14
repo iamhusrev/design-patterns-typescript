@@ -1,5 +1,5 @@
-import { Ship } from "./Ship";
-import { Truck } from "./Truck";
+import { Ship } from "./ship";
+import { Truck } from "./truck";
 
 export abstract class Logistics {
     abstract createTransport(): any;

@@ -1,4 +1,4 @@
-import { ConfigManager } from "./ConfigManager";
+import { ConfigManager } from "./config-manager";
 
 
 const config1 = ConfigManager.getInstance();

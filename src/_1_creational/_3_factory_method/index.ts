@@ -1,4 +1,4 @@
-import { Logistics, RoadLogistics, SeaLogistics } from "./Logistics";
+import { Logistics, RoadLogistics, SeaLogistics } from "./logistics";
 
 function runLogistics(logistics: Logistics) {
     logistics.planDelivery();
