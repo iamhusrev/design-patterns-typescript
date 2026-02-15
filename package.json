@@ -12,7 +12,9 @@
     "structural-adapter": "tsx src/_2_structural/_2_adapter/index.ts",
     "structural-decorator": "tsx src/_2_structural/_3_decorator/index.ts",
     "structural-facade": "tsx src/_2_structural/_4_facade/index.ts",
-    "structural-flyweight": "tsx src/_2_structural/_5_flyweight/index.ts"
+    "structural-flyweight": "tsx src/_2_structural/_5_flyweight/index.ts",
+    "structural-bridge": "tsx src/_2_structural/_6_bridge/index.ts",
+    "structural-proxy": "tsx src/_2_structural/_7_proxy/index.ts"
   },
   "devDependencies": {
     "@types/node": "^25.1.0",
