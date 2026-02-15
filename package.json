@@ -9,7 +9,9 @@
     "creational-abstract-factory": "tsx src/_1_creational/_4_abstract_factory/index.ts",
     "creational-builder": "tsx src/_1_creational/_5_builder/index.ts",
     "structural-composite": "tsx src/_2_structural/_1_composite/index.ts",
-    "structural-adapter": "tsx src/_2_structural/_2_adapter/index.ts"
+    "structural-adapter": "tsx src/_2_structural/_2_adapter/index.ts",
+    "structural-decorator": "tsx src/_2_structural/_3_decorator/index.ts",
+    "structural-facade": "tsx src/_2_structural/_4_facade/index.ts"
   },
   "devDependencies": {
     "@types/node": "^25.1.0",
