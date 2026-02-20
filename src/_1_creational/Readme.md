@@ -37,9 +37,9 @@ Use Case: Cloning an enemy in a game with the same stats, or duplicating a compl
 Key Logic: Implementing a clone() method.
 
 ⚖️ Comparison Table
-Pattern	Focus	Main Benefit
-Singleton	Uniqueness	Resource management & Shared state
-Factory Method	Choice of class	Decoupling & Extensibility
-Abstract Factory	Families of classes	Consistency across related products
-Builder	Step-by-step construction	Readability & Managing complexity
-Prototype	Cloning state	Performance & Avoiding costly creation
+Pattern	Focus	    Main Benefit
+Singleton       ->  Uniqueness	Resource management & Shared state
+Factory Method  ->  Choice of class	Decoupling & Extensibility
+Abstract Factory->	Families of classes	Consistency across related products
+Builder	        ->  Step-by-step construction	Readability & Managing complexity
+Prototype	    ->  Cloning state	Performance & Avoiding costly creation
